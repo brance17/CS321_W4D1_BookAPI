@@ -12,4 +12,3 @@ namespace CS321_W4D1_BookAPI.Models
         public ICollection<Book> Books { get; set; }
     }
 }
-
