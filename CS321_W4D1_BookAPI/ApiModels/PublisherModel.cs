@@ -8,4 +8,3 @@ namespace CS321_W4D1_BookAPI.ApiModels
         // TODO: fill in publisher properties. can be same as Publisher model.
     }
 }
-
